@@ -26,8 +26,8 @@ I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering 
 <h3>⚡️ Recent Github Activity </h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [avinash201199/profile-readme-templates](https://github.com/avinash201199/profile-readme-templates)<br>
-2. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
+1. 🔱 Forked [IAvii/flexprice-front](https://github.com/IAvii/flexprice-front) from [flexprice/flexprice-front](https://github.com/flexprice/flexprice-front)<br>
+2. ⭐ Starred [avinash201199/profile-readme-templates](https://github.com/avinash201199/profile-readme-templates)<br>
 3. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
 4. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
 5. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
