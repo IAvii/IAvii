@@ -26,11 +26,11 @@ I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering 
 <h3>⚡️ Recent Github Activity </h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
+1. ⭐ Starred [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br>
 2. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
-3. 🔱 Forked [IAvii/flexprice-front](https://github.com/IAvii/flexprice-front) from [flexprice/flexprice-front](https://github.com/flexprice/flexprice-front)<br>
-4. ⭐ Starred [avinash201199/profile-readme-templates](https://github.com/avinash201199/profile-readme-templates)<br>
-5. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
+3. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
+4. 🔱 Forked [IAvii/flexprice-front](https://github.com/IAvii/flexprice-front) from [flexprice/flexprice-front](https://github.com/flexprice/flexprice-front)<br>
+5. ⭐ Starred [avinash201199/profile-readme-templates](https://github.com/avinash201199/profile-readme-templates)<br>
 <!--RECENT_ACTIVITY:end-->
   
 </td>
