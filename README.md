@@ -30,7 +30,7 @@ I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering 
 2. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
 3. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
 4. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
-5. ⭐ Starred [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br>
+5. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
 <!--RECENT_ACTIVITY:end-->
   
 </td>
