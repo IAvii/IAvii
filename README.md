@@ -1,5 +1,5 @@
 # <img src="./assets/wave.gif" width="25px"> Hey there! I'm Avi<br>
-I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering student 🧑‍💻 | Part-time web developer | Full-time bug hunter 🐞<br />
+I'm a 20-year-old software engineer-in-progress 🚀<br>third-year engineering student 🧑‍💻<br />
 
 <a href="https://x.com/XzyVron" target="_blank">
   <img align="left" alt="Avinash's Twitter" width="22px" src="./assets/twitter.svg" />
