@@ -26,11 +26,11 @@ I'm a 20-year-old software engineer-in-progress 🚀<br>third-year engineering s
 <h3>⚡️ Recent Github Activity </h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
-2. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
+1. ⬆️ Pushed undefined commit(s) to [IAvii/flexprice-front](https://github.com/IAvii/flexprice-front)<br>
+2. 🔱 Forked [IAvii/musicblocks](https://github.com/IAvii/musicblocks) from [sugarlabs/musicblocks](https://github.com/sugarlabs/musicblocks)<br>
 3. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
 4. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
-5. ⬆️ Pushed undefined commit(s) to [IAvii/IAvii](https://github.com/IAvii/IAvii)<br>
+5. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
 <!--RECENT_ACTIVITY:end-->
   
 </td>
