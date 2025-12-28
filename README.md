@@ -26,11 +26,11 @@ I'm a 20-year-old software engineer-in-progress 🚀<br>third-year engineering s
 <h3>⚡️ Recent Github Activity </h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
+1. ⭐ Starred [YUZU-Hub/appscreen](https://github.com/YUZU-Hub/appscreen)<br>
 2. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
 3. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
 4. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
-5. ⭐ Starred [jakegut/resume](https://github.com/jakegut/resume)<br>
+5. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
 <!--RECENT_ACTIVITY:end-->
   
 </td>
