@@ -52,7 +52,7 @@ I'm a 20-year-old software engineer-in-progress 🚀<br>third-year engineering s
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2025 - To: 04 January 2026
+From: 29 December 2025 - To: 05 January 2026
 
 Dart         1 hr 24 mins    ███████████████████░░░░░░   75.83 %
 XML          14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
