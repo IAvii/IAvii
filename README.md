@@ -7,7 +7,7 @@ I'm a 20-year-old software engineer-in-progress 🚀<br>third-year engineering s
 <a href="https://www.linkedin.com/in/avinash-ganore/" target="_blank">
   <img align="left" alt="Avinash's LinkedIn" width="22px" src="./assets/linkedin.svg" />
 </a>
-<a href="https://avinash-orcin.vercel.app/" target="_blank">
+<a href="https://avinashganore.xyz" target="_blank">
   <img align="left" alt="Avinash's Site" width="22px" src="./assets/globe.svg" />
 </a>
 <br />
