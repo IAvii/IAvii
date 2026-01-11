@@ -52,7 +52,7 @@ I'm a 20-year-old software engineer-in-progress 🚀<br>third-year engineering s
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2026 - To: 09 January 2026
+From: 03 January 2026 - To: 10 January 2026
 
 TypeScript   6 hrs 41 mins   █████████████████████▓░░░   86.25 %
 TSConfig     23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
