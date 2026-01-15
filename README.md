@@ -26,9 +26,9 @@ I'm a 20-year-old software engineer-in-progress 🚀<br>third-year engineering s
 <h3>⚡️ Recent Github Activity </h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
-2. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
-3. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
+1. 💪 Opened PR [#2](undefined) in [codepvg/leetcode-ranking](https://github.com/codepvg/leetcode-ranking)<br>
+2. 🔱 Forked [IAvii/leetcode-ranking](https://github.com/IAvii/leetcode-ranking) from [codepvg/leetcode-ranking](https://github.com/codepvg/leetcode-ranking)<br>
+3. ❗️ Opened issue [#1](https://github.com/codepvg/leetcode-ranking/issues/1) in [codepvg/leetcode-ranking](https://github.com/codepvg/leetcode-ranking)<br>
 4. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
 5. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
 <!--RECENT_ACTIVITY:end-->
