@@ -52,13 +52,13 @@ I'm a 20-year-old software engineer-in-progress 🚀<br>third-year engineering s
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2026 - To: 21 February 2026
+From: 15 February 2026 - To: 22 February 2026
 
-Python       37 mins               █████████████████████▒░░░   85.66 %
-Markdown     1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-JSON         1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-CSV          1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-TSConfig     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Python       46 mins               ████████████████▓░░░░░░░░   66.21 %
+TypeScript   8 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
+JSON         5 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+TSConfig     4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+Markdown     2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
 ```
 
 <!--END_SECTION:waka-->
