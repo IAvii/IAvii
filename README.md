@@ -52,7 +52,7 @@ I'm a 20-year-old software engineer-in-progress 🚀<br>third-year engineering s
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2026 - To: 25 February 2026
+From: 19 February 2026 - To: 26 February 2026
 
 Python       46 mins               ██████████░░░░░░░░░░░░░░░   39.65 %
 C++          40 mins               ████████▓░░░░░░░░░░░░░░░░   34.78 %
