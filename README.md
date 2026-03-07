@@ -19,34 +19,38 @@ I'm a 20-year-old software engineer-in-progress 🚀<br>third-year engineering s
 - 🎨 Improving my web design skills — trying to make UIs that look less like 2005 <br>
 <br>
 -->
-
+<!--
 <table><tr width="100%">
 <td valign="top" width="50%">
-  
 <h3>⚡️ Recent Github Activity </h3>
+-->
 
 <!--RECENT_ACTIVITY:start-->
+<!--
 1. ⬆️ Pushed undefined commit(s) to [IAvii/terminal-config](https://github.com/IAvii/terminal-config)<br>
 2. ⬆️ Pushed undefined commit(s) to [IAvii/terminal-config](https://github.com/IAvii/terminal-config)<br>
 3. ⬆️ Pushed undefined commit(s) to [IAvii/terminal-config](https://github.com/IAvii/terminal-config)<br>
 4. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
 5. ⬆️ Pushed undefined commit(s) to [IAvii/DSA](https://github.com/IAvii/DSA)<br>
+-->
 <!--RECENT_ACTIVITY:end-->
-  
+  <!--
 </td>
 <td valign="top" width="50%">
  
 <h3>📝 Latest Blog Posts </h3>
-
+-->
 <!-- BLOG-POST-LIST:START -->
+<!--
 - [Why Choose Next.js? A Beginner&#39;s Guide to Modern Web Development 🚀](https://dev.to/xzyvron/why-choose-nextjs-a-beginners-guide-to-modern-web-development-267h)
 - [My First Hackathon Experience: Stepping Out of My Comfort Zone](https://dev.to/xzyvron/my-first-hackathon-experience-stepping-out-of-my-comfort-zone-3l0d)
+-->
 <!-- BLOG-POST-LIST:END -->
-  
+<!--
 </td>
 </tr>
 </table>
-
+-->
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
@@ -66,13 +70,13 @@ Git Config   0 secs                ░░░░░░░░░░░░░░░
 -------
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,javascript,java,mongodb,mysql,nodejs,express,redux,tailwind,vite,git,github,gmail,vercel,html,css,bootstrap,notion,npm,postman,vscode,windows,materialui&perline=12)](https://skillicons.dev)
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xzy-Vron/Xzy-Vron/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xzy-Vron/Xzy-Vron/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Xzy-Vron/Xzy-Vron/output/github-snake.svg" />
 </picture>
-
+-->
 <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Xzy-Vron&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
