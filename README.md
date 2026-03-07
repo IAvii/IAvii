@@ -68,9 +68,9 @@ Git Config   0 secs                ░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 -------
-
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,javascript,java,mongodb,mysql,nodejs,express,redux,tailwind,vite,git,github,gmail,vercel,html,css,bootstrap,notion,npm,postman,vscode,windows,materialui&perline=12)](https://skillicons.dev)
 <!--
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,javascript,java,mongodb,mysql,nodejs,express,redux,tailwind,vite,git,github,gmail,vercel,html,css,bootstrap,notion,npm,postman,vscode,windows,materialui&perline=12)](https://skillicons.dev)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xzy-Vron/Xzy-Vron/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xzy-Vron/Xzy-Vron/output/github-snake.svg" />
