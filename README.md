@@ -50,12 +50,12 @@ I'm a 20-year-old software engineer-in-progress 🚀<br>third-year engineering s
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 March 2026 - To: 30 March 2026
+From: 24 March 2026 - To: 31 March 2026
 
-TypeScript   4 hrs 20 mins         █████████████████░░░░░░░░   67.82 %
-JSON         1 hr 17 mins          █████░░░░░░░░░░░░░░░░░░░░   20.19 %
-TSConfig     29 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-Prisma       15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+TypeScript   4 hrs 25 mins         ████████████████▓░░░░░░░░   67.02 %
+JSON         1 hr 23 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
+TSConfig     29 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+Prisma       16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
