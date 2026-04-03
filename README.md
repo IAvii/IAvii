@@ -28,7 +28,6 @@ I'm a 20-year-old software engineer-in-progress 🚀<br>third-year engineering s
 1. ⬆️ Pushed undefined commit(s) to [IAvii/IAvii](https://github.com/IAvii/IAvii)<br>
 2. ⬆️ Pushed undefined commit(s) to [IAvii/IAvii](https://github.com/IAvii/IAvii)<br>
 3. ⬆️ Pushed undefined commit(s) to [IAvii/IAvii](https://github.com/IAvii/IAvii)<br>
-4. ⬆️ Pushed undefined commit(s) to [IAvii/terminal-config](https://github.com/IAvii/terminal-config)<br>
 <!--RECENT_ACTIVITY:end-->
   <!--
 </td>
