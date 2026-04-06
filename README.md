@@ -29,7 +29,6 @@ I'm a 20-year-old software engineer-in-progress 🚀<br>third-year engineering s
 2. ⭐ Starred [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server)<br>
 3. ⭐ Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)<br>
 4. ⭐ Starred [daytonaio/daytona](https://github.com/daytonaio/daytona)<br>
-5. ⬆️ Pushed undefined commit(s) to [IAvii/IAvii](https://github.com/IAvii/IAvii)<br>
 <!--RECENT_ACTIVITY:end-->
   <!--
 </td>
