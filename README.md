@@ -21,11 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 July 2026 - To: 19 July 2026
+From: 13 July 2026 - To: 20 July 2026
 
-TypeScript   1 hr 28 mins          ██████████████████████▒░░   89.43 %
-Prisma       5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-Other        3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+TypeScript   1 hr 7 mins           █████████████████████▓░░░   86.53 %
+Prisma       5 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+Other        3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
 ```
 
 <!--END_SECTION:waka-->
