@@ -21,9 +21,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2026 - To: 07 August 2026
+From: 01 August 2026 - To: 08 August 2026
 
-Other      21 mins               █████████▒░░░░░░░░░░░░░░░   36.67 %
+Markdown     4 hrs 12 mins         █████████████▒░░░░░░░░░░░   53.26 %
+TypeScript   1 hr 12 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
+Python       55 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
+Git Config   30 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+JSON         30 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
 ```
 
 <!--END_SECTION:waka-->
