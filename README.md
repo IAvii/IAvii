@@ -21,9 +21,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2026 - To: 25 August 2026
+From: 19 August 2026 - To: 26 August 2026
 
-Other        1 hr 7 mins           ███████▒░░░░░░░░░░░░░░░░░   29.47 %
+C++          4 hrs 31 mins         ██████████████▓░░░░░░░░░░   58.94 %
+Other        47 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
 ```
 
 <!--END_SECTION:waka-->
