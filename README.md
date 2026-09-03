@@ -21,11 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2026 - To: 01 September 2026
+From: 26 August 2026 - To: 02 September 2026
 
-C++          11 hrs 26 mins        █████████████████████▓░░░   86.55 %
-Text         1 hr 2 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
-Other        22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+C++          7 hrs 29 mins         █████████████████████░░░░   84.53 %
+Text         19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Other        17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 ```
 
 <!--END_SECTION:waka-->
