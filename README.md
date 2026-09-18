@@ -21,10 +21,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2026 - To: 16 September 2026
+From: 10 September 2026 - To: 17 September 2026
 
-C++           41 mins               ██████████████░░░░░░░░░░░   55.93 %
-Other         11 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
+C++          11 mins               ████████████░░░░░░░░░░░░░   47.59 %
+Other        11 mins               ███████████▒░░░░░░░░░░░░░   44.89 %
 ```
 
 <!--END_SECTION:waka-->
