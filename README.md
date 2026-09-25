@@ -21,13 +21,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2026 - To: 23 September 2026
+From: 17 September 2026 - To: 24 September 2026
 
-C++           6 hrs 17 mins         █████████████░░░░░░░░░░░░   52.11 %
-Markdown      5 hrs 1 min           ██████████▒░░░░░░░░░░░░░░   41.55 %
-Objective-C   25 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-C             16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-CMake         4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+C++           8 hrs 2 mins          █████████████▓░░░░░░░░░░░   54.13 %
+Markdown      5 hrs 17 mins         █████████░░░░░░░░░░░░░░░░   35.64 %
+C             39 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Objective-C   37 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+CMake         13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->
